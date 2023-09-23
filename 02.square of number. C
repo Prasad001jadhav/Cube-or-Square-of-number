@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+int main ()
+{
+	int no = 0 ;
+	
+	printf(" \n Enter a  number =  ");
+	scanf("%d",&no);
+	
+	printf(" \n square of %d = %d.\n", no, (no*no));
+	
+	printf("\n thanks");
+	
+	getch();
+	return 0;
+}
