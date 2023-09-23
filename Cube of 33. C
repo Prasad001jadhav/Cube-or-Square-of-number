@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+	int no = 33 , cube = 0 ;
+	
+	
+	cube = no*no*no ;
+	
+	printf("\n cube of %d = %d.",33,cube);
+	
+	printf("\n thanks");
+	
+	getch();
+	return 0;
+}
