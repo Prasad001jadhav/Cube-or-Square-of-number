@@ -3,8 +3,7 @@
 int main()
 {
 	int no = 33 , cube = 0 ;
-	
-	
+
 	cube = no*no*no ;
 	
 	printf("\n cube of %d = %d.",33,cube);
