@@ -1,0 +1,1 @@
+# Cube-or-Square-of-number
